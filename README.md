@@ -6,8 +6,8 @@ A full-featured **Blog Application** built using the **MERN Stack (MongoDB, Expr
 
 ## 🔗 Demo
 
-🚀 Live Demo: _Coming Soon_  
-📽️ Video Reference: [Watch Tutorial](https://youtu.be/yl9pwazDHUw)
+🚀 Live Demo:https://mern-blog-app-3akd.vercel.app/ 
+
 
 ---
 
